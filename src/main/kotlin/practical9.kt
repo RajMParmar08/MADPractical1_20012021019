@@ -1,5 +1,5 @@
 fun main() {
-    var arrlist = listOf(1, 25, 68, 52, 21)
+    var arrlist = listOf(11, 28, 66, 5, 22)
     var maxNum:Int
     maxNum=arrlist[0]
     for (i in arrlist) {
